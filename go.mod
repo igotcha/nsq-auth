@@ -1,4 +1,4 @@
-module github.com/nsq-auth
+module github.com/igotcha/nsq-auth
 
 go 1.19
 
